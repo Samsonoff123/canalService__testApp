@@ -1,0 +1,31 @@
+.main {
+    height: 118px;
+    background: #E4B062;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    max-width: 1420px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+svg {
+    cursor: pointer;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.user {
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
